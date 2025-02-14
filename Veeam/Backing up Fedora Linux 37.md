@@ -19,3 +19,9 @@ sudo veeam
 ![](attachments/Pasted%20image%2020250213151403.png)
 
 ![](attachments/Pasted%20image%2020250213151422.png)
+
+![](attachments/Pasted%20image%2020250214111105.png)
+
+![](attachments/Pasted%20image%2020250214111116.png)
+
+![](attachments/Pasted%20image%2020250214111134.png)

@@ -1,10 +1,7 @@
-![](attachments/Pasted%20image%2020250213130055.png)
-
-![](attachments/Pasted%20image%2020250213130123.png)
 
 ![](attachments/Pasted%20image%2020250213130402.png)
 
-![](attachments/Pasted%20image%2020250213130454.png)
+![](attachments/Pasted%20image%2020250214100815.png)
 
 ![](attachments/Pasted%20image%2020250213130513.png)
 
@@ -22,3 +19,4 @@
 
 
 
+![](attachments/Pasted%20image%2020250214100911.png)
