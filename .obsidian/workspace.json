@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Agent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +145,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -242,23 +243,23 @@
   },
   "active": "17e9eca2c035377e",
   "lastOpenFiles": [
-    "Veeam/attachments/Pasted image 20250214111134.png",
-    "Veeam/attachments/Pasted image 20250214111116.png",
-    "Veeam/attachments/Pasted image 20250214111105.png",
+    "Veeam/attachments/Pasted image 20250217100847.png",
+    "Veeam/attachments/Pasted image 20250217100830.png",
+    "Veeam/attachments/Pasted image 20250217100818.png",
+    "Veeam/attachments/Pasted image 20250217100803.png",
+    "Veeam/attachments/Pasted image 20250217100720.png",
+    "Veeam/attachments/Pasted image 20250217100707.png",
+    "Veeam/attachments/Pasted image 20250217100611.png",
+    "Veeam/attachments/Pasted image 20250217100530.png",
+    "Veeam/attachments/Pasted image 20250217100517.png",
+    "Veeam/attachments/Pasted image 20250217100507.png",
+    "Veeam/attachments/Pasted image 20250217100446.png",
     "Veeam/Inventory.md",
-    "Veeam/attachments/Pasted image 20250214100911.png",
-    "Veeam/attachments/Pasted image 20250214100815.png",
     "Veeam/Configuring Veeam.md",
     "Veeam/Backup Repositories.md",
     "Veeam/Creating Backup Job.md",
     "Veeam/Installing VBR Server.md",
     "Veeam/Backing up Fedora Linux 37.md",
-    "Veeam/attachments/Pasted image 20250213151422.png",
-    "Veeam/attachments/Pasted image 20250213151403.png",
-    "Veeam/attachments/Pasted image 20250213151350.png",
-    "Veeam/attachments/Pasted image 20250213151300.png",
-    "Veeam/attachments/Pasted image 20250213151243.png",
-    "Veeam/attachments/Pasted image 20250213151155.png",
     "Untitled",
     "Veeam/attachments",
     "Veeam"
